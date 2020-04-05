@@ -1,10 +1,6 @@
-public class B extends null {
+public interface B {
 
     long ac();
 
     java.lang.Class qq();
-
-    public Object pp() {
-        return this;
-    }
 }

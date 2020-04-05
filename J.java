@@ -1,10 +1,6 @@
-public class J extends null {
+public interface J {
 
     int af();
 
     java.util.List<String> jj();
-
-    public Object pp() {
-        return this;
-    }
 }

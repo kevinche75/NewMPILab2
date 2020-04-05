@@ -1,10 +1,6 @@
-public class A extends null {
+public interface A {
 
     long dd();
 
     byte oo();
-
-    public void bb() {
-        System.out.println(getClass().getName());
-    }
 }
