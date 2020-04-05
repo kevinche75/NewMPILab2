@@ -1,6 +1,6 @@
 public interface B {
 
-    long ac();
+    long acc();
 
     java.lang.Class qq();
 }
