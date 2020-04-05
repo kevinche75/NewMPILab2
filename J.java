@@ -1,6 +1,6 @@
 public interface J {
 
-    int aff();
+    int af();
 
     java.util.List<String> jj();
 }
