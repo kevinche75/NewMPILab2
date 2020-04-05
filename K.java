@@ -1,4 +1,4 @@
-public class K implements J, B, A {
+public class K extends null implements J, B, A {
 
     private long h = 1234;
 
@@ -36,6 +36,10 @@ public class K implements J, B, A {
         return 1;
     }
 
+    public void aa() {
+        return;
+    }
+
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
@@ -44,7 +48,11 @@ public class K implements J, B, A {
         return new int[]{0, 1, 2, 3, 4};
     }
 
-    public void aa() {
-        return;
+    public int ae() {
+        return 9;
+    }
+
+    public Object rr() {
+        return null;
     }
 }
