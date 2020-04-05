@@ -1,7 +1,6 @@
 public interface A {
 
-    long oo();
+    long dd();
 
-    byte dd();
-
+    byte oo();
 }
