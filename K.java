@@ -40,12 +40,12 @@ public class K extends null implements J, B, A {
         return new java.util.HashSet<Integer>;
     }
 
-    public void aa() {
-        return;
-    }
-
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public void aa() {
+        return;
     }
 
     public int ae() {
@@ -54,5 +54,9 @@ public class K extends null implements J, B, A {
 
     public Object rr() {
         return null;
+    }
+
+    public double ee() {
+        return 0.000001;
     }
 }
