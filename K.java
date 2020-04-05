@@ -59,4 +59,8 @@ public class K extends null implements J, B, A {
     public double ee() {
         return 0.000001;
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }
