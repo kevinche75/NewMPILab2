@@ -39,8 +39,11 @@ public class K extends null implements J, B, A {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
+<<<<<<< HEAD
 
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
+=======
+>>>>>>> origin/blueBranchR12
 }
