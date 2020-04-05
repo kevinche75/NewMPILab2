@@ -35,4 +35,28 @@ public class K extends null implements J, B, A {
     public byte oo() {
         return 1;
     }
+
+    public void aa() {
+        return;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public int ae() {
+        return 9;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public void ab() {
+        System.out.println();
+    }
 }
