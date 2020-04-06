@@ -1,4 +1,4 @@
-public class K implements J, B, A {
+public class K extends null implements J, B, A {
 
     private long h = 1234;
 
@@ -42,5 +42,53 @@ public class K implements J, B, A {
 
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
+    }
+    
+    public void aa() {
+        System.out.println("Hello world!");
+    }
+
+    public int ae() {
+        return 9;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public double ee() {
+        return 100.500;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public float ff() {
+        return 0;
+    }
+
+    public String kk() {
+        return "No";
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
     }
 }
