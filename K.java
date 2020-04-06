@@ -59,4 +59,8 @@ public class K extends null implements J, B, A {
     public void ab() {
         System.out.println();
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }

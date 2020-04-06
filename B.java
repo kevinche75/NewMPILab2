@@ -7,4 +7,8 @@ public class B extends null {
     public int af() {
         return -1;
     }
+
+    public void ab() {
+        return;
+    }
 }
