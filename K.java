@@ -36,12 +36,16 @@ public class K extends null implements J, B, A {
         return 1;
     }
 
-    public void aa() {
-        return;
-    }
-
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public void aa() {
+        return;
     }
 
     public int[] ii() {
@@ -50,10 +54,6 @@ public class K extends null implements J, B, A {
 
     public int ae() {
         return 9;
-    }
-
-    public Object rr() {
-        return null;
     }
 
     public void ab() {
@@ -66,5 +66,9 @@ public class K extends null implements J, B, A {
 
     public double ee() {
         return 500.100;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
 }
