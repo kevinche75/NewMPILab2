@@ -4,15 +4,19 @@ public class B extends null {
 
     java.lang.Class qq();
 
-    public long dd() {
-        return 33;
+    public Object gg() {
+        return return getClass().getClassLoader();
     }
 
-    public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
+    public int af() {
+        return -1;
     }
 
-    public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public String kk() {
+        return "No";
     }
 }

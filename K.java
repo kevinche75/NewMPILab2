@@ -36,40 +36,52 @@ public class K extends null implements J, B, A {
         return 1;
     }
 
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
 
-    public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
-    }
-    
     public void aa() {
         System.out.println("Hello world!");
     }
 
     public int ae() {
-        return 9;
-    }
-
-    public Object rr() {
-        return null;
+        return 8;
     }
 
     public double ee() {
         return 100.500;
     }
 
-    public java.util.Random mm() {
-        return new java.util.Random();
+    public void ab() {
+        return;
     }
 
-    public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public Object rr() {
+        return null;
     }
 
     public float ff() {
-        return 0;
+        return 3.14;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
 
     public String kk() {
@@ -80,15 +92,7 @@ public class K extends null implements J, B, A {
         return new java.util.Random();
     }
 
-    public String nn() {
-        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
-    }
-
-    public int cc() {
-        return 42;
-    }
-
-    public int hh() {
-        return new java.util.Random(10).nextInt(10);
+    public Object pp() {
+        return this;
     }
 }

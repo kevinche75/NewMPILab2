@@ -4,19 +4,19 @@ public class A extends null {
 
     byte oo();
 
+    public void ab() {
+        System.out.println("\n");
+    }
+
+    public int ae() {
+        return 9;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
     public double ee() {
-        return 500.100;
-    }
-
-    public java.lang.Class qq() {
-        return getClass();
-    }
-
-    public double ad() {
-        return 9.11;
-    }
-
-    public void aa() {
-        System.out.println("Hello world!");
+        return 0.000001;
     }
 }

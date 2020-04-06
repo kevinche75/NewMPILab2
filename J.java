@@ -4,19 +4,19 @@ public class J extends null {
 
     java.util.List<String> jj();
 
-    public long ac() {
-        return 111;
+    public void bb() {
+        System.out.println(getClass().getName());
     }
 
-    public Object gg() {
-        return new java.util.Random();
+    public int cc() {
+        return 42;
     }
 
-    public int hh() {
-        return new java.util.Random(10).nextInt(10);
+    public Object rr() {
+        return null;
     }
 
-    public Object pp() {
-        return this;
+    public void ab() {
+        System.out.println("\n");
     }
 }
