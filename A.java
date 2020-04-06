@@ -3,12 +3,16 @@ public class A extends null {
     long dd();
 
     byte oo();
-    public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
     }
 
-    public String kk() {
-        return "No";
+    public double ad() {
+        return 12.12;
+    }
 
+    public long ac() {
+        return 333;
     }
 }

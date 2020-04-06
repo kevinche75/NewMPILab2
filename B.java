@@ -3,12 +3,16 @@ public class B extends null {
     long ac();
 
     java.lang.Class qq();
-    public int af() {
-        return -1;
+
+    public String kk() {
+        return "Hello world";
     }
 
-    public void ab() {
-        return;
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 
+    public Object gg() {
+        return new java.util.Random();
     }
 }

@@ -37,24 +37,46 @@ public class K extends null implements J, B, A {
     }
 
     public java.util.Set<Integer> ll() {
-        return new java.util.HashSet<Integer>;
+        return new java.util.LinkedList<Integer>;
     }
 
-<<<<<<< HEAD
-=======
-    public Object rr() {
-        return null;
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
     }
 
     public void aa() {
         return;
     }
 
-    public void aa() {
-        System.out.println("Hello world!");
+    public int ae() {
+        return java.lang.Math.abs(-6);
     }
 
-    public String kk() {
-        return "No";
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public double ee() {
+        return 500.100;
     }
 }
