@@ -63,4 +63,8 @@ public class K extends null implements J, B, A {
     public float ff() {
         return 3.14;
     }
+
+    public double ee() {
+        return 500.100;
+    }
 }
