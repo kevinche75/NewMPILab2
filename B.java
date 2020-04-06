@@ -3,8 +3,12 @@ public class B extends null {
     long ac();
 
     java.lang.Class qq();
+    public int af() {
+        return -1;
+    }
 
-    public double ee() {
-        return 100.500;
+    public void ab() {
+        return;
+
     }
 }
