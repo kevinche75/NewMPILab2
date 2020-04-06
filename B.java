@@ -4,7 +4,15 @@ public class B extends null {
 
     java.lang.Class qq();
 
-    public Object pp() {
-        return this;
+    public long dd() {
+        return 33;
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
     }
 }

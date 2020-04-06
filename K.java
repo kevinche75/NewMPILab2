@@ -39,12 +39,9 @@ public class K extends null implements J, B, A {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
-    public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
-    }
 
     public void aa() {
-        return;
+        System.out.println("Hello world!");
     }
 
     public int ae() {
@@ -56,10 +53,38 @@ public class K extends null implements J, B, A {
     }
 
     public double ee() {
-        return 0.000001;
+        return 100.500;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public float ff() {
+        return 0;
+    }
+
+    public String kk() {
+        return "No";
     }
 
     public Object gg() {
-        return return getClass().getClassLoader();
+        return new java.util.Random();
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
     }
 }
