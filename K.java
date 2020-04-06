@@ -1,4 +1,4 @@
-public class K implements J, B, A {
+public class K extends null implements J, B, A {
 
     private long h = 1234;
 
@@ -45,6 +45,10 @@ public class K implements J, B, A {
     }
 
     public void aa() {
-        return;
+        System.out.println("Hello world!");
+    }
+
+    public String kk() {
+        return "No";
     }
 }
