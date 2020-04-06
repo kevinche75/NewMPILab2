@@ -1,6 +1,6 @@
 public class A extends null {
 
-    long oo();
+    long dd();
 
-    byte dd();
+    byte oo();
 }
