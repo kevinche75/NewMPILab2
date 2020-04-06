@@ -7,4 +7,12 @@ public class J extends null {
     public Object pp() {
         return this;
     }
+
+    public Object rr() {
+        return null;
+    }
+
+    public int cc() {
+        return 39;
+    }
 }

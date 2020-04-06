@@ -37,7 +37,7 @@ public class K extends null implements J, B, A {
     }
 
     public java.util.Set<Integer> ll() {
-        return new java.util.HashSet<Integer>;
+        return new java.util.LinkedList<Integer>;
     }
 
     public int[] ii() {
@@ -62,5 +62,29 @@ public class K extends null implements J, B, A {
 
     public Object gg() {
         return return getClass().getClassLoader();
+    }
+
+    public void ab() {
+        return;
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public Object pp() {
+        return this;
     }
 }

@@ -7,4 +7,12 @@ public class B extends null {
     public Object pp() {
         return this;
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public long dd() {
+        return 100500;
+    }
 }
